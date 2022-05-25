@@ -5,5 +5,5 @@
 Зависимости:
 1) Python > 3.7
 2) pyfzf и fzf
-3) beautiful souop 4
+3) beautiful soup 4
 4) requests
