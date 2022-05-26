@@ -7,3 +7,4 @@
 2) pyfzf и fzf
 3) beautiful soup 4
 4) requests
+5) mpv плеер
